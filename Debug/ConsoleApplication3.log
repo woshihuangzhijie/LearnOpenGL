@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\visual studio\consoleapplication3\consoleapplication3\shader.h(66): warning C4101: “infoLog”: 未引用的局部变量
+e:\visual studio\consoleapplication3\consoleapplication3\shader.h(65): warning C4101: “success”: 未引用的局部变量
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(182): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(320): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio\consoleapplication3\consoleapplication3\main.cpp(333): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  ConsoleApplication3.vcxproj -> E:\visual studio\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> E:\visual studio\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)
